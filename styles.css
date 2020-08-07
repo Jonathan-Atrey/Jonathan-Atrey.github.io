@@ -265,9 +265,9 @@ header{
 
 .cta-btn{
     font-size: 1.1rem;
-    background-color: #fff;
+    background-color: #ffffff;
     padding: .9rem 1.8rem;
-    color: var(--body-font-color);
+    color: #000000;
     border-radius: .4rem;
     transition: background-color .5s;
 }
@@ -275,7 +275,7 @@ header{
 .cta-btn:hover,
 .cta-btn:focus{
     color: #fff;
-    background-color: var(--secondary-font-color);
+    background-color: #000000;
 }
 
 /*Discover our story*/
