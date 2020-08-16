@@ -32,9 +32,9 @@ body{
 section{
     padding: 3.9rem 0;
     overflow: hidden;
-    border-style: solid;
+    border-style: double;
   border-width: 4px;;
-border-color: #FFFAF0;
+border-color: #000000;
 
 }
 
